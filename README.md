@@ -1,7 +1,29 @@
-### Hello, I am emit07
+# Alessandro De Leo 👋
 
-📫 How to reach me: emit07@protonmail.com
+> CS + Data Science + GIS @ Stanford University
 
+Currently exploring Machine Learning, Remote Sensing, and Systems.
 
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=emit07&&show_icons=true&theme=onedark">
+## 🛠 What I Work With
+
+```
+Languages:    Python · C++ · R · Java · C# · JavaScript 
+ML / DS:      PyTorch · scikit-learn · pandas · NumPy
+Tools:        Git · Docker · Vim · QGIS
+```
+
+---
+
+## 🎓 @ Stanford
+
+- **Major / Coterm:** B.S. Computer Science, Minor in Earth Systems
+
+---
+
+## 📫 Get In Touch
+
+Email: [adeleo@stanford.edu](mailto:adeleo@stanford.edu)
+Personal Email: [emit07@protonmail.com](mailto:emit07@protonmail.com)
+
