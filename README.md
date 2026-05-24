@@ -21,6 +21,5 @@ Tools:        Git · Vim · QGIS
 
 ## 📫 Get In Touch
 
-Email: [adeleo@stanford.edu](mailto:adeleo@stanford.edu)
+Email: [adeleo@stanford.edu](mailto:adeleo@stanford.edu) \
 Personal Email: [emit07@protonmail.com](mailto:emit07@protonmail.com)
-
