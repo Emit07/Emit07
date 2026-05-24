@@ -2,7 +2,7 @@
 
 > CS + Data Science + GIS @ Stanford University
 
-**Major:** B.S. Computer Science
+**Major:** B.S. Computer Science \
 **Minor:** Earth Systems (Sustainability Track)
 
 Currently exploring Machine Learning, Remote Sensing, and Modeling
@@ -14,7 +14,7 @@ Currently exploring Machine Learning, Remote Sensing, and Modeling
 ```
 Languages:    Python · C++ · R · Java · C# · JavaScript 
 ML / DS:      PyTorch · scikit-learn · pandas · NumPy
-Tools:        Git · Docker · Vim · QGIS
+Tools:        Git · Vim · QGIS
 ```
 
 ---
