@@ -7,7 +7,6 @@
 
 Currently exploring Machine Learning, Remote Sensing, and Modeling
 
----
 
 ## 📫 Get In Touch
 
