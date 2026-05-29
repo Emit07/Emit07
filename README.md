@@ -9,16 +9,6 @@ Currently exploring Machine Learning, Remote Sensing, and Modeling
 
 ---
 
-## 🛠 What I Work With
-
-```
-Languages:    Python · C++ · R · Java · C# · JavaScript 
-ML / DS:      PyTorch · scikit-learn · pandas · NumPy
-Tools:        Git · Vim · QGIS
-```
-
----
-
 ## 📫 Get In Touch
 
 Email: [adeleo@stanford.edu](mailto:adeleo@stanford.edu) \
