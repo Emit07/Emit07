@@ -1,11 +1,14 @@
 # Alessandro De Leo 👋
 
-> CS + Data Science + GIS @ Stanford University
+> swe + ml + environmental tech @ Stanford University
 
 **Major:** B.S. Computer Science \
 **Minor:** Earth Systems (Sustainability Track)
 
-Currently exploring Machine Learning, Remote Sensing, and Modeling
+Currently exploring backend systems, machine learning, and remote sensing
+
+Intern @ RepoRanker
+Research @ Sustainable Solutions Lab
 
 
 ## 📫 Get In Touch
