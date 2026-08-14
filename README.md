@@ -7,8 +7,10 @@
 
 Currently exploring backend systems, machine learning, and remote sensing
 
-Intern @ RepoRanker
+Intern @ RepoRanker \
 Research @ Sustainable Solutions Lab
+
+arch + vim btw
 
 
 ## 📫 Get In Touch
