@@ -1,6 +1,6 @@
 # Alessandro De Leo 👋
 
-> swe + ml + environmental tech @ Stanford University
+> ml research + swe + environmental tech @ Stanford University
 
 **Major:** B.S. Computer Science \
 **Minor:** Earth Systems (Sustainability Track)
